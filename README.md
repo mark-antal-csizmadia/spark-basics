@@ -1,5 +1,9 @@
 # spark-basics
 
+<a href="https://nbviewer.org/github/mark-antal-csizmadia/spark-basics/blob/main/spark-basics.ipynb">
+  <img align="center" src="https://img.shields.io/badge/Jupyter-spark%5Fbasics.ipynb-informational?style=flat&logo=Jupyter&logoColor=F37626&color=blue" />
+</a>
+  
 ## Install Spark
 
 ### General Installation
